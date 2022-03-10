@@ -1,0 +1,9 @@
+Adactin Automation
+
+login page
+
+search hotel
+
+Booking
+
+payments

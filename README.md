@@ -1,2 +1,2 @@
 # Adactin
-This repository is to automate the Adactin hotel
+This repository is used to automate the Adactin hotel
